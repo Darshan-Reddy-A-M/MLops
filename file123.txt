@@ -1,3 +1,7 @@
 hello world
 Second line
+<<<<<<< HEAD
 Conflicting change from feature branch
+=======
+Change from main branch
+>>>>>>> main
